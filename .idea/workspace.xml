@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6047e4c6-2328-471b-a9ca-9bd0b4082b5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/labs-week6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jfApq7XfDxszdOGfwq3Nj5Y98W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LabProgram">
+    <configuration name="LabProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabProgram" />
+      <module name="labs-week5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabProgram4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabProgram4" />
+      <module name="labs-week5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabProgram5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabProgram5" />
+      <module name="labs-week5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabProgram6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabProgram6" />
+      <module name="labs-week5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabProgram7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabProgram7" />
+      <module name="labs-week5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LabProgram" />
+        <item itemvalue="Application.LabProgram7" />
+        <item itemvalue="Application.LabProgram6" />
+        <item itemvalue="Application.LabProgram5" />
+        <item itemvalue="Application.LabProgram4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6047e4c6-2328-471b-a9ca-9bd0b4082b5b" name="Default Changelist" comment="" />
+      <created>1604184957577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604184957577</updated>
+      <workItem from="1604184961854" duration="10024000" />
+      <workItem from="1604200985265" duration="7328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604186211097">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="484" y="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.821@0.23.1440.821" timestamp="1604186211097" />
+    <state x="474" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604188765638">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="474" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.821@0.23.1440.821" timestamp="1604188765638" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1604197279572">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1604197279572" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604190972811" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1604197279572">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1604197279572" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604190972806" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1604197279571">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1604197279571" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604190972805" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1604197279572">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1604197279572" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604190972811" />
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom" timestamp="1604195423886">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1604195423886" />
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604189955995" />
+    <state width="1398" height="255" key="GridCell.Tab.1.center" timestamp="1604195423886">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1604195423886" />
+    <state width="1398" height="255" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1604189955994" />
+    <state width="1398" height="255" key="GridCell.Tab.1.left" timestamp="1604195423885">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1604195423885" />
+    <state width="1398" height="255" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1604189955994" />
+    <state width="1398" height="255" key="GridCell.Tab.1.right" timestamp="1604195423886">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1604195423886" />
+    <state width="1398" height="255" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1604189955994" />
+    <state x="308" y="173" key="IDE.errors.dialog" timestamp="1604196070079">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="308" y="173" key="IDE.errors.dialog/0.23.1440.816@0.23.1440.816" timestamp="1604196070079" />
+    <state x="426" y="115" key="new project wizard" timestamp="1604242055392">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="350" y="85" key="new project wizard/0.23.1440.808@0.23.1440.808" timestamp="1604241170101" />
+    <state x="426" y="115" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1604242055392" />
+    <state x="350" y="86" key="new project wizard/0.23.1440.816@0.23.1440.816" timestamp="1604184992564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labs-week5/src/main/java/LabProgram5.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labs-week5/src/main/java/LabProgram5.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labs-week5/src/main/java/LabProgram7.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

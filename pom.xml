@@ -11,6 +11,7 @@
     <modules>
         <module>labs-week5</module>
         <module>labs-week4</module>
+        <module>labs-week6</module>
     </modules>
 
     <properties>
