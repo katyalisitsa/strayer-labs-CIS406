@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs-week4/labs-week4.iml" filepath="$PROJECT_DIR$/labs-week4/labs-week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-week5/labs-week5.iml" filepath="$PROJECT_DIR$/labs-week5/labs-week5.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs-week6/labs-week6.iml" filepath="$PROJECT_DIR$/labs-week6/labs-week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-week7/labs-week7.iml" filepath="$PROJECT_DIR$/labs-week7/labs-week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/strayer-labs-CIS406.iml" filepath="$PROJECT_DIR$/.idea/strayer-labs-CIS406.iml" />
     </modules>
   </component>
 </project>
